@@ -440,7 +440,7 @@ function render() {
   } else if (isAcceptedStep) {
     card.innerHTML = `
       <div class="lp-success-panel enter">
-        <div class="lp-teddy">o((>ω< ))o💗</div>
+        <div class="lp-teddy">UwU💗</div>
         <div class="lp-success-title">${CONFIG.successTitle}</div>
         <div class="lp-success-msg">${CONFIG.successMessage}</div>
         <div class="lp-pulse-hearts">
